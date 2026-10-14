@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Sitio web",
+    "url": "https://www.gsweb.com.uy/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.gsweb.com.uy.ico",
+    "slug": "sitio-web",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3175,
+    "timeDay": 3175,
+    "timeWeek": 3175,
+    "timeMonth": 3175,
+    "timeYear": 3175,
+    "dailyMinutesDown": {}
+  }
+]
