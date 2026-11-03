@@ -4,17 +4,19 @@
     "url": "https://www.gsweb.com.uy/",
     "icon": "https://icons.duckduckgo.com/ip3/www.gsweb.com.uy.ico",
     "slug": "sitio-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1252,
-    "timeDay": 2417,
-    "timeWeek": 1550,
-    "timeMonth": 1252,
-    "timeYear": 1252,
-    "dailyMinutesDown": {}
+    "time": 1203,
+    "timeDay": 1301,
+    "timeWeek": 1379,
+    "timeMonth": 1203,
+    "timeYear": 1203,
+    "dailyMinutesDown": {
+      "2026-11-03": 0
+    }
   }
 ]
